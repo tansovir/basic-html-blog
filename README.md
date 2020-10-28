@@ -11,3 +11,4 @@
   <li>Popular Postt</li>
   <li>Public Post</li>
 </ol>
+<i>NB: This template is not responsive design.</i>
